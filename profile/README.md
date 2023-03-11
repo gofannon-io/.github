@@ -1,9 +1,11 @@
 ## gofannon.io : articles techniques détaillés dans l'écosystème Java
 
-* persist-demo
+* persist-demo : Java, JPA, Hibernate, code source
   * Evaluation de l'usage de @EntityListeners et mise en application dans la gestion du cycle de vie d'entités JPA.
-  * Java, JPA, Hibernate, code source
   * https://github.com/gofannon-io/persist-demo
+* gradle_large_project : Gradle, Java, code source
+  * Analyse de l'includeBuild pour gérer une application multi-projet dans une seule instance d'IDE.
+  * https://github.com/gofannon-io/gradle_large_project
 
 
 <!--
