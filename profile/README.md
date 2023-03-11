@@ -1,4 +1,10 @@
-## gofannon.io : set of detailled technical articles
+## gofannon.io : articles techniques détaillés dans l'écosystème Java
+
+* persist-demo
+  * Evaluation de l'usage de @EntityListeners et mise en application dans la gestion du cycle de vie d'entités JPA.
+  * Java, JPA, Hibernate, code source
+  * https://github.com/gofannon-io/persist-demo
+
 
 <!--
 
